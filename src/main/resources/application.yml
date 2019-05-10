@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  
+spring:
+  application:
+    name: zk-client
+
+zk:
+  connect-string: 129.211.46.210:2181
+  path: /zk-demo/zk-client
+  data-string: localhost:${server.port}
+  session-timeout: 30000
+

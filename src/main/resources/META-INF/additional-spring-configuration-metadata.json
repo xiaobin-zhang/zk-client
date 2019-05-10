@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "zk.connect-string",
+    "type": "java.lang.String",
+    "description": "A description for 'zk.connect-string'"
+  },
+  {
+    "name": "zk.data-string",
+    "type": "java.lang.String",
+    "description": "A description for 'zk.data-string'"
+  },
+  {
+    "name": "zk.session-timeout",
+    "type": "java.lang.Integer",
+    "description": "A description for 'zk.session-timeout'"
+  },
+  {
+    "name": "zk.path",
+    "type": "java.lang.String",
+    "description": "A description for 'zk.path'"
+  }
+]}
